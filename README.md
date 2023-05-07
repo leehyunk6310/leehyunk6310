@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 <p align="center">
     <br><br>
-    <img src="https://img.shields.io/badge/Velog-white?style=round&logo=Velog&logoColor=#20C997"/>    
+    <a href="https://velog.io/@k_hyun">
+        <img src="https://img.shields.io/badge/Velog-white?style=round&logo=Velog&logoColor=#20C997"/>
+    </a>
 </p>
 
  
