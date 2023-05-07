@@ -17,3 +17,11 @@ Here are some ideas to get you started:
 
 ## Projects
 [Hyperism - NFT Trade System using Ethereum](https://github.com/Hyperism/hyperism)
+
+
+<p align="center">
+    <br><br>
+    <img src="https://img.shields.io/badge/Velog-white?style=round&logo=Velog&logoColor=#20C997"/>    
+</p>
+
+ 
