@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Projects
+[Hyperism - NFT Trade System using Ethereum](https://github.com/Hyperism/hyperism)
