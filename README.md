@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 - [SSAFSALI - Mobile Community App for ssafy students](https://www.canva.com/design/DAFklX_OjxI/KXGVJhlodbdJlQT36UwemQ/edit?analyticsCorrelationId=b0d43c3e-215b-4772-a1c9-df46d3dc3c5a)
 
 - [Todo - Todo App using flutter & Speech To Text](https://github.com/leehyunk6310/todo_speech)
+
+- [HIFES - Mobile Travle Platform](https://github.com/leehyunk6310/HIFES)
+
+- [IDONKNOW - Mobile Finance Education App for Children](https://github.com/dyddn3994/prefin)
+
+- [IMFINE - Fine Tuning Providiing Service](https://github.com/leehyunk6310/IMFINE)
 <p align="center">
     <br><br>
     <a href="https://velog.io/@k_hyun">
